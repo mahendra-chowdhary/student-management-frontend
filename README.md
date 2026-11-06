@@ -28,6 +28,23 @@ The application provides secure student record management with role-based access
 - **Backend API:** https://student-management-backend-production-8c7e.up.railway.app
 - **Swagger API Documentation:** https://student-management-backend-production-8c7e.up.railway.app/swagger-ui/index.html
 
+- ## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Students Page for User
+![Students Page](screenshots/students.png)
+
+### Students Page for Admin
+![Students Page](screenshots/admin-students.png)
+
+### Student Details
+![Student Details](screenshots/student-details.png)
+
 ## Technologies Used
 
 ### Frontend
